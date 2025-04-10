@@ -1,41 +1,44 @@
 # Complete list of all GitHub Profile Badges and Achievements
 
-#### Read this in other languages:
+Read this in other languages:
 
 [English](README.md)
-&middot; [Chinese](lang/chinese/README.md)
-&middot; [Русский](lang/russian/README.md)
-&middot; [Nederlands](lang/dutch/README.md)
-&middot; [Français](lang/french/README.md)
-&middot; [Deutsch](lang/german/README.md)
-&middot; [हिन्दी](lang/hindi/README.md)
-&middot; [Italiano](lang/italian/README.md)
-&middot; [ಕನ್ನಡ](lang/kannada/README.md)
-&middot; [odia](lang/odia/README.md)
-&middot; [pidgin](lang/pidgin/README.md)
-&middot; [Polski](lang/polish/README.md)
-&middot; [Português](lang/portuguese/README.md)
-&middot; [Español](lang/spanish/README.md)
-&middot; [Kiswahili](lang/swahili/README.md)
-&middot; [తెలుగు](lang/telugu/README.md)
-&middot; [Traditional chinese](lang/traditional-chinese/README.md)
-&middot; [Türkçe](lang/turkish/README.md)
-&middot; [isiZulu](lang/zulu/README.md)
+&middot; [Chinese](lang/chinese.md)
+&middot; [Русский](lang/russian.md)
+&middot; [Nederlands](lang/dutch.md)
+&middot; [Français](lang/french.md)
+&middot; [Deutsch](lang/german.md)
+&middot; [हिन्दी](lang/hindi.md)
+&middot; [Italiano](lang/italian.md)
+&middot; [한국어](lang/korean.md) 
+&middot; [தமிழ்](lang/tamil.md)
+&middot; [ಕನ್ನಡ](lang/kannada.md)
+&middot; [odia](lang/odia.md)
+&middot; [pidgin](lang/pidgin.md)
+&middot; [Polski](lang/polish.md)
+&middot; [Português](lang/portuguese.md)
+&middot; [Español](lang/spanish.md)
+&middot; [Kiswahili](lang/swahili.md)
+&middot; [తెలుగు](lang/telugu.md)
+&middot; [Traditional chinese](lang/traditional-chinese.md)
+&middot; [Türkçe](lang/turkish.md)
+&middot; [isiZulu](lang/zulu.md)
+&middot; [Tiếng Việt](lang/vietnamese.md)
 
-_Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues)._
+_Don't have the language you need? Just create an [issue](https://github.com/gomzyakov/achievements/issues/new/choose)._
 
 <br>
 
 | Badge | Name | How to get |
 | :---: | --- | --- |
-| ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | React to something on GitHub with a ❤️ emoji **(Being tested)** |
-| ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | User had PRs merged in multiple public repositories **(Being tested)** |
+| ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | React to something on GitHub with a ❤️ emoji **(Being tested - now unable to earn)** |
+| ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | User had PRs merged in multiple public repositories **(Being tested - now unable to earn)** |
 | ![Achievement badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Created a repository that has **16 stars** or [more](#badge-tiers).                                                                                              |
 | ![Achievement badge Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | Closed an issue or a pull request within 5 min of opening.                                                                                                       |
 | ![Achievement badge Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | Coauthored in **one** or [more](#badge-tiers) merged pull requests.                                                                                             |
 | ![Achievement badge Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) | **Pull Shark** | **2 pull requests** merged (or [more](#badge-tiers)).                                                                                                            |
 | ![Achievement badge Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | **Galaxy Brain** | 2 accepted answers or [more](#badge-tiers). <br> *Now unable to earn via [Community discussions](https://github.com/orgs/community/discussions/), for more information see [here](https://github.com/orgs/community/discussions/106536).*                                                                                                                       |
-| ![Achievement badge YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | Merged **at least one** pull request without code review .                                                                                                       |
+| ![Achievement badge YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | Merged **at least one** pull request without code review.                                                                                                       |
 | ![Achievement badge Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Public Sponsor** | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors).                                                                                  |
 | ![Achievement badge Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Mars 2020 Contributor** | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter). *Now unable to earn.* |
 | ![Achievement badge 2020 GitHub Archive Program](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Arctic Code Vault Contributor** | Contributed code to a repository in the [2020 GitHub Archive Program](https://archiveprogram.github.com/). *Now unable to earn.*                                 |
@@ -85,7 +88,7 @@ Some Achievements not only have the base version, but also tiers.
 
 ## Achievement Skin Tone
 
-Some achievements' appearance depends on your Emoji Skin Tone Preference.
+The appearance of some achievements depends on your Emoji Skin Tone Preference.
 
 You can change your preferred Skin Tone by going to [appearance settings](https://github.com/settings/appearance).
 
@@ -120,15 +123,13 @@ You can change your preferred Skin Tone by going to [appearance settings](https:
 | ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Security Bug Bounty Hunter** | Yes | Helped out hunting down security vulnerabilities at [GitHub Security](https://bounty.github.com/) |
 | ![Light badge GitHub Campus Expert][gce-dark]![Dark badge GitHub Campus Expert][gce-light] | **GitHub Campus Expert** | Yes | Participate in the [GitHub Campus Program](https://education.github.com/experts) (Open [in August 2024](https://education.github.com/campus_experts)) |
 | ![Dark badge Security advisory credit][SAC-dark]![Light badge Security advisory credit][SAC-light] | **Security Advisory Credit** | Yes | Have your security advisory submitted to the [GitHub Advisory Database](https://github.com/advisories) accepted |
-| ![Dark badge Github Stars][stars-dark]![Light badge Github Stars][stars-light] | **GitHub Star** | Yes | Become a [GitHub Star](https://stars.github.com) |
+|  | **GitHub Star** | Yes | Become a [GitHub Star](https://stars.github.com) |
 | ![Dark badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Light badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discussion answered** | No | Have  your reply to a discussion marked as the answer |
 
 [gce-dark]: https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only
 [gce-light]: https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only
 [SAC-dark]: https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only
 [SAC-light]: https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only
-[stars-dark]: assets/images/stars-dark.svg#gh-dark-mode-only
-[stars-light]: assets/images/stars-light.svg#gh-light-mode-only
 
 <br>
 

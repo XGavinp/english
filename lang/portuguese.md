@@ -2,25 +2,28 @@
 
 #### Read this in other languages:
 
-[English](../../README.md)
-&middot; [Chinese](../../lang/chinese/README.md)
-&middot; [Русский](../../lang/russian/README.md)
-&middot; [Nederlands](../../lang/dutch/README.md)
-&middot; [Français](../../lang/french/README.md)
-&middot; [Deutsch](../../lang/german/README.md)
-&middot; [हिन्दी](../../lang/hindi/README.md)
-&middot; [Italiano](../../lang/italian/README.md)
-&middot; [ಕನ್ನಡ](../../lang/kannada/README.md)
-&middot; [odia](../../lang/odia/README.md)
-&middot; [pidgin](../../lang/pidgin/README.md)
-&middot; [Polski](../../lang/polish/README.md)
-&middot; [Português](../../lang/portuguese/README.md)
-&middot; [Español](../../lang/spanish/README.md)
-&middot; [Kiswahili](../../lang/swahili/README.md)
-&middot; [తెలుగు](../../lang/telugu/README.md)
-&middot; [Traditional chinese](../../lang/traditional-chinese/README.md)
-&middot; [Türkçe](../../lang/turkish/README.md)
-&middot; [isiZulu](../../lang/zulu/README.md)
+[English](../README.md)
+&middot; [Chinese](chinese.md)
+&middot; [Русский](../../lang/russian/russian)
+&middot; [Nederlands](dutch.md)
+&middot; [Français](french.md)
+&middot; [Deutsch](german.md)
+&middot; [हिन्दी](hindi.md)
+&middot; [Italiano](italian.md)
+&middot; [한국어](lang/korean/README.md)  
+&middot; [தமிழ்](lang/tamil/README.md)
+&middot; [ಕನ್ನಡ](kannada.md)
+&middot; [odia](odia.md)
+&middot; [pidgin](pidgin.md)
+&middot; [Polski](polish.md)
+&middot; [Português](portuguese.md)
+&middot; [Español](../../lang/spanish/spanish)
+&middot; [Kiswahili](../../lang/swahili/swahili)
+&middot; [తెలుగు](../../lang/telugu/telugu)
+&middot; [Traditional chinese](../../lang/traditional-chinese/traditional-chinese)
+&middot; [Türkçe](../../lang/turkish/turkish)
+&middot; [isiZulu](../../lang/zulu/zulu)
+&middot; [Tiếng Việt](../../lang/vietnamese/vietnamese)
 
 _Don't have the language you need? Just create an [issues](https://github.com/gomzyakov/achievements/issues)._
 
@@ -120,15 +123,14 @@ Você pode alterar a preferência de cor de pele acessando [configuração visua
 | ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Security Bug Bounty Hunter** | Sim | Ajude a encontra vulnerabilidades de segurança através do [GitHub Security](https://bounty.github.com/) |
 | ![Light badge GitHub Campus Expert][gce-dark]![Dark badge GitHub Campus Expert][gce-light] | **GitHub Campus Expert** | Não | Participar do [GitHub Campus Program](https://education.github.com/experts) (será aberto [em agosto de 2024](https://education.github.com/campus_experts)) |
 | ![Dark badge Security advisory credit][SAC-dark]![Light badge Security advisory credit][SAC-light] | **Security Advisory Credit** | Sim | Tenha um conselho de segurança enviado no [GitHub Advisory Database](https://github.com/advisories) aceito |
-| ![Dark badge Github Stars][stars-dark]![Light badge Github Stars][stars-light] | **GitHub Star** | Sim | Torne-se um [GitHub Star](https://stars.github.com) |
+|  | **GitHub Star** | Sim | Torne-se um [GitHub Star](https://stars.github.com) |
 | ![Dark badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Light badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discussion answered** | Não | Tenha um comentário de uma discussão marcado como a resposta |
 
 [gce-dark]: https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only
 [gce-light]: https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only
 [SAC-dark]: https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only
 [SAC-light]: https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only
-[stars-dark]: images/stars-dark.svg#gh-dark-mode-only
-[stars-light]: images/stars-light.svg#gh-light-mode-only
+
 
 <br>
 

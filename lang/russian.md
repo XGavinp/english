@@ -2,25 +2,28 @@
 
 #### Этот файл доступен на других языках:
 
-[English](../../README.md)
-&middot; [Chinese](../../lang/chinese/README.md)
-&middot; [Русский](README.md)
-&middot; [Nederlands](../../lang/dutch/README.md)
-&middot; [Français](../../lang/french/README.md)
-&middot; [Deutsch](../../lang/german/README.md)
-&middot; [हिन्दी](../../lang/hindi/README.md)
-&middot; [Italiano](../../lang/italian/README.md)
-&middot; [ಕನ್ನಡ](../../lang/kannada/README.md)
-&middot; [odia](../../lang/odia/README.md)
-&middot; [pidgin](../../lang/pidgin/README.md)
-&middot; [Polski](../../lang/polish/README.md)
-&middot; [Português](../../lang/portuguese/README.md)
-&middot; [Español](../../lang/spanish/README.md)
-&middot; [Kiswahili](../../lang/swahili/README.md)
-&middot; [తెలుగు](../../lang/telugu/README.md)
-&middot; [Traditional chinese](../../lang/traditional-chinese/README.md)
-&middot; [Türkçe](../../lang/turkish/README.md)
-&middot; [isiZulu](../../lang/zulu/README.md)
+[English](../README.md)
+&middot; [Chinese](chinese.md)
+&middot; [Русский](russian.md)
+&middot; [Nederlands](dutch.md)
+&middot; [Français](french.md)
+&middot; [Deutsch](german.md)
+&middot; [हिन्दी](hindi.md)
+&middot; [Italiano](italian.md)
+&middot; [한국어](lang/korean/README.md)  
+&middot; [தமிழ்](lang/tamil/README.md)
+&middot; [ಕನ್ನಡ](kannada.md)
+&middot; [odia](odia.md)
+&middot; [pidgin](pidgin.md)
+&middot; [Polski](polish.md)
+&middot; [Português](portuguese.md)
+&middot; [Español](../../lang/spanish/spanish)
+&middot; [Kiswahili](../../lang/swahili/swahili)
+&middot; [తెలుగు](../../lang/telugu/telugu)
+&middot; [Traditional chinese](../../lang/traditional-chinese/traditional-chinese)
+&middot; [Türkçe](../../lang/turkish/turkish)
+&middot; [isiZulu](../../lang/zulu/zulu)
+&middot; [Tiếng Việt](../../lang/vietnamese/vietnamese)
 
 _Не нашли нужный вам язык? Просто создайте [issues](https://github.com/gomzyakov/achievements/issues)._
 
@@ -37,7 +40,7 @@ _Не нашли нужный вам язык? Просто создайте [is
 |           ![Значок за достижение Galaxy Brain][galaxy-brain]           | **Galaxy Brain**                  | Да                    | Автор дискуссии (кроме раздела Community) принял два (или больше) ваших ответа (нажал `Mark as answer`).                                                                                    |
 |                   ![Значок за достижение YOLO][yolo]                   | **YOLO**                          | Да                    | Выдаётся, если хотя бы один ваш `pull request` был принят без замечаний (автор не написал ни одного треда и смёржил правки).                                                                |
 |         ![Значок за достижение Public Sponsor][public-sponsor]         | **Public Sponsor**                | Да                    | Выдаётся, если вы хотя бы один раз спонсировали opensource-проект или разработчика на GitHub.                                                                                               |
-|        ![Значок за достижение Mars 2020 Contributor][mars-2020]        | **Mars 2020 Contributor**         | Нет                   | Сделали вклад в один из репозиториев проекта <a href="https://github.com/readme/featured/nasa-ingenuity-helicopter">Mars 2020 Helicopter Mission</a>. Выдавался за хотя бы 1 случай вклада. |
+|        ![Значок за достижение Mars 2020 Contributor][mars-2020]        | **Mars 2020 Contributor**         | Нет                   | Сделали вклад в один из репозиториев проекта [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter). Выдавался за хотя бы 1 случай вклада. |
 | ![Значок за достижение 2020 GitHub Archive Program][arctic-code-vault] | **Arctic Code Vault Contributor** | Нет                   | Ваш код был включён в программу <a href="https://archiveprogram.github.com">2020 GitHub Archive Program</a>. Выдавался за хотя бы 1 случай вклада.                                          |
 
 <!-- Значки не имеющие градаций по уровням -->
@@ -193,6 +196,6 @@ _Не нашли нужный вам язык? Просто создайте [is
 
 ## Есть предложения?
 
-Если у вас есть вопросы или предложения, как улучшить информацию на этой странице, вы всегда можете написать
+Если у вас есть вопрос или предложение, как улучшить информацию на этой странице, вы всегда можете написать
 в [issues](https://github.com/github-profile-achievements/russian/issues).
 
